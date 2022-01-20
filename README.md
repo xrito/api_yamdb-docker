@@ -67,3 +67,7 @@ http://localhost:8000/redoc/
         }'
 
 Если пользователь существует и код подтверждения верен, метод вернет AccessToken
+
+### Об авторе
+ - [Dmitrii Kartavtsev](https://github.com/xrito)
+ - Telegram: https://t.me/harkort
